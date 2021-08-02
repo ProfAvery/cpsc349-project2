@@ -22,5 +22,6 @@
     "tailwindcss": "^2.2.4"
   },
   "keywords": [],
+  "private": true,
   "license": "UNLICENSED"
 }
